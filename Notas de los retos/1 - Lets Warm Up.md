@@ -13,5 +13,7 @@ picoCTF{p}
 >>> `chr(112)`
 `'p'`
 ## Notas adicionales 
+* puede usarse el interprete python para convertir y algún sitio web que ayude a convertir 
 
 ## Referencias
+* https://www.rapidtables.com/convert/number/hex-to-ascii.html
