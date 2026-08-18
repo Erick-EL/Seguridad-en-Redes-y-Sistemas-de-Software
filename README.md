@@ -2,5 +2,5 @@
 
 ## Notas de la solución de los retos de hacking de la materia 
 
-* Carlos Héctor Castañeda Ramírez
-* castr@uaz.edu.mx
+* Erick Espinoza López
+* eel6903@gmail.com
