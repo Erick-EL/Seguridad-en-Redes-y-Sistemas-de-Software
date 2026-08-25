@@ -2,7 +2,7 @@
 There is a nice program that you can talk to by using this command in a shell:
 $ nc wily-courier.picoctf.net 58307, but it doesn't speak English...
 ## Solución 
-```Son69-academy@webshell:~$ nc wily-courier.picoctf.net 58307
+```:~$ nc wily-courier.picoctf.net 58307
 
 ```
 * Use Cyberchef
