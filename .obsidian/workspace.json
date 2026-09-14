@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/49 - Scavenger Hunt.md",
+                "file": "General Skills/50 - Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "49 - Scavenger Hunt"
+              "title": "50 - Irish-Name-Repo 1"
             }
           }
         ]
@@ -190,15 +190,18 @@
   },
   "active": "0eca133f1f4f6a2a",
   "lastOpenFiles": [
-    "General Skills/48 - Cookies.md",
+    "General Skills/51 - More SQLi.md",
+    "General Skills/52 - JaWT Scratchpad.md",
+    "General Skills/50 - Irish-Name-Repo 1.md",
     "General Skills/49 - Scavenger Hunt.md",
-    "General Skills/47 - GET aHEAD.md",
     "plantilla.md",
+    "Pasted image 20260902110643.png",
+    "General Skills/48 - Cookies.md",
+    "General Skills/47 - GET aHEAD.md",
     "General Skills/45 - picobrowser.md",
     "General Skills/46 - Client-side-again.md",
     "General Skills/44 - dont-use-client-side.md",
     "General Skills/43 - logon.md",
-    "Pasted image 20260902110643.png",
     "General Skills/42 - where are the robots.md",
     "General Skills/41 - Insp3ct0r.md",
     "General Skills/40 - ASCII Numbers.md",
@@ -214,9 +217,6 @@
     "General Skills/23 - Codebook.md",
     "General Skills/24 - convertme.py.md",
     "General Skills/25 - fixme1.py.md",
-    "General Skills/26 - fixme2.py.md",
-    "General Skills/27 - PW Crack 1.md",
-    "General Skills/28 - PW Crack 2.md",
     "Computo en la nube",
     "General Skills"
   ]
