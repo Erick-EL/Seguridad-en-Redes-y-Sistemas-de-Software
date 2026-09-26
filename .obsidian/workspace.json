@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/55 - Most Cookies.md",
+                "file": "General Skills/65 - WebDecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "55 - Most Cookies"
+              "title": "65 - WebDecode"
             }
           }
         ]
@@ -190,10 +190,20 @@
   },
   "active": "0eca133f1f4f6a2a",
   "lastOpenFiles": [
-    "Pasted image 20260902110643.png",
-    "General Skills/54 - Trickster.md",
-    "General Skills/54 - SOAP.md",
+    "General Skills/64 - Unminify.md",
+    "General Skills/65 - WebDecode.md",
+    "General Skills/63 - SQLiLite.md",
+    "General Skills/62 - Secrets.md",
+    "General Skills/61 - Roboto Sans.md",
+    "General Skills/60 - Power Cookie.md",
+    "General Skills/59 - Local Authority.md",
+    "General Skills/58 - IntroToBurp.md",
+    "General Skills/57 - Inspect HTML.md",
+    "General Skills/56 - Includes.md",
     "General Skills/55 - Most Cookies.md",
+    "General Skills/54 - Trickster.md",
+    "Pasted image 20260902110643.png",
+    "General Skills/54 - SOAP.md",
     "General Skills/53 - MatchTheRegex.md",
     "General Skills/52 - JaWT Scratchpad.md",
     "plantilla.md",
@@ -207,15 +217,6 @@
     "General Skills/44 - dont-use-client-side.md",
     "General Skills/43 - logon.md",
     "General Skills/42 - where are the robots.md",
-    "General Skills/41 - Insp3ct0r.md",
-    "General Skills/40 - ASCII Numbers.md",
-    "General Skills/39 - binhexa.md",
-    "General Skills/38 - binary search.md",
-    "General Skills/37 - collaborative development.md",
-    "General Skills/36 - blame game.md",
-    "General Skills/34 - committee issue.md",
-    "General Skills/35 - time machine.md",
-    "General Skills/20 - First Find.md",
     "Computo en la nube",
     "General Skills"
   ]
