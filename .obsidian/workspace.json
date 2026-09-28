@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/65 - WebDecode.md",
+                "file": "General Skills/66 - Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "65 - WebDecode"
+              "title": "66 - Glory of the Garden"
             }
           }
         ]
@@ -190,8 +190,14 @@
   },
   "active": "0eca133f1f4f6a2a",
   "lastOpenFiles": [
-    "General Skills/64 - Unminify.md",
+    "General Skills/67 - So Meta.md",
+    "General Skills/68 - shark on wire 1.md",
+    "General Skills/69 - extensions.md",
+    "General Skills/70 - What Lies Within.md",
+    "General Skills/66 - Glory of the Garden.md",
+    "plantilla.md",
     "General Skills/65 - WebDecode.md",
+    "General Skills/64 - Unminify.md",
     "General Skills/63 - SQLiLite.md",
     "General Skills/62 - Secrets.md",
     "General Skills/61 - Roboto Sans.md",
@@ -206,17 +212,11 @@
     "General Skills/54 - SOAP.md",
     "General Skills/53 - MatchTheRegex.md",
     "General Skills/52 - JaWT Scratchpad.md",
-    "plantilla.md",
     "General Skills/50 - Irish-Name-Repo 1.md",
     "General Skills/51 - More SQLi.md",
     "General Skills/49 - Scavenger Hunt.md",
     "General Skills/48 - Cookies.md",
     "General Skills/47 - GET aHEAD.md",
-    "General Skills/45 - picobrowser.md",
-    "General Skills/46 - Client-side-again.md",
-    "General Skills/44 - dont-use-client-side.md",
-    "General Skills/43 - logon.md",
-    "General Skills/42 - where are the robots.md",
     "Computo en la nube",
     "General Skills"
   ]
