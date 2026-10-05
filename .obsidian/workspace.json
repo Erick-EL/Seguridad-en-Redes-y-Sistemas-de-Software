@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyLab/General Skills/09 - Glitch Cat.md",
+                "file": "CyLab/General Skills/80 - MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 - Glitch Cat"
+              "title": "80 - MacroHard WeakEdge"
             }
           }
         ]
@@ -190,8 +190,16 @@
   },
   "active": "0eca133f1f4f6a2a",
   "lastOpenFiles": [
-    "CyLab/General Skills/10 - Nice netcat....md",
+    "CyLab/General Skills/79 - tunn3l v1s10n.md",
+    "CyLab/General Skills/80 - MacroHard WeakEdge.md",
+    "CyLab/General Skills/78 - Matryoshka doll.md",
+    "CyLab/General Skills/76 - WebNet0.md",
+    "CyLab/General Skills/77 - Webnet1.md",
+    "plantilla.md",
+    "CyLab/General Skills/75 - shark on wire 2.md",
+    "CyLab/General Skills/Pasted image 20260902110643.png",
     "CyLab/General Skills/09 - Glitch Cat.md",
+    "CyLab/General Skills/10 - Nice netcat....md",
     "CyLab/General Skills/08 - plumbing.md",
     "CyLab/General Skills/07 - what's a net cat.md",
     "CyLab/General Skills/06 - Obedient Cat.md",
@@ -209,17 +217,9 @@
     "CyLab/Primer Examen Parcial - Parte 2 - Web/03 - findme.md",
     "CyLab/Primer Examen Parcial - Parte 2 - Web/02 - Cookie Monster Secret Recipe.md",
     "CyLab/Primer Examen Parcial - Parte 2 - Web/01 - Bookmarklet.md",
-    "CyLab/Primer Examen Parcial - Parte 1 - General Skills/09 - Rust fixme 3.md",
-    "CyLab/Primer Examen Parcial - Parte 1 - General Skills/08 - Rust fixme 2.md",
-    "CyLab/Primer Examen Parcial - Parte 1 - General Skills/07 - Rust fixme 1.md",
-    "CyLab/Primer Examen Parcial - Parte 1 - General Skills/06 - Python Wrangling.md",
-    "CyLab/Primer Examen Parcial - Parte 1 - General Skills/05 - HashingJobApp.md",
-    "CyLab/Primer Examen Parcial - Parte 1 - General Skills/04 - flag_shop.md",
-    "CyLab/Primer Examen Parcial - Parte 1 - General Skills/03 - FANTASY CTF.md",
     "CyLab",
     "CyLab/Primer Examen Parcial - Parte 2 - Web",
     "CyLab/Primer Examen Parcial - Parte 1 - General Skills",
-    "CyLab/General Skills/Pasted image 20260902110643.png",
     "Computo en la nube",
     "CyLab/General Skills"
   ]
