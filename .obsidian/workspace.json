@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5d4e3b4f3d21c8b",
+        "id": "bb36691e54a8436e",
         "type": "tabs",
         "children": [
           {
-            "id": "0eca133f1f4f6a2a",
+            "id": "3b17691702f37647",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyLab/Crypto - Parte 1/93 - interencdec.md",
+                "file": "CyLab/Crypto 2/96 - rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "93 - interencdec"
+              "title": "96 - rsa-pop-quiz"
             }
           }
         ]
@@ -188,41 +188,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0eca133f1f4f6a2a",
+  "active": "3b17691702f37647",
   "lastOpenFiles": [
-    "CyLab/Crypto - Parte 1/92 - waves over lambda.md",
-    "CyLab/Crypto - Parte 1/91 - Tapping.md",
-    "CyLab/Crypto - Parte 1/90 - la cifra de.md",
-    "CyLab/Crypto - Parte 1/89 - Easy1.md",
-    "CyLab/Crypto - Parte 1/88 - Caesar.md",
-    "CyLab/Crypto - Parte 1/87 - 13.md",
-    "CyLab/Crypto - Parte 1/86 - The numbers.md",
-    "CyLab/Crypto - Parte 1/93 - interencdec.md",
-    "plantilla.md",
-    "CyLab/Forensic 4/85 - Operation Orchid.md",
-    "CyLab/Crypto - Parte 1",
-    "CyLab/Forensic 4/85 - Operation Oni.md",
-    "CyLab/Forensic 4/84 - Sleuthkit Apprentice.md",
-    "CyLab/Forensic 4/83 - Sleuthkit Intro.md",
-    "CyLab/Forensic 4/82 - Disk, disk, sleuth!.md",
-    "CyLab/Forensic 4/81 - Milkslap.md",
-    "CyLab/General Skills/80 - MacroHard WeakEdge.md",
-    "CyLab/Forensic 4",
-    "CyLab/General Skills/79 - tunn3l v1s10n.md",
-    "CyLab/General Skills/78 - Matryoshka doll.md",
-    "CyLab/General Skills/76 - WebNet0.md",
-    "CyLab/General Skills/77 - Webnet1.md",
-    "CyLab/General Skills/75 - shark on wire 2.md",
-    "CyLab/General Skills/Pasted image 20260902110643.png",
-    "CyLab/General Skills/09 - Glitch Cat.md",
-    "CyLab/General Skills/10 - Nice netcat....md",
-    "CyLab/General Skills/08 - plumbing.md",
-    "CyLab/General Skills/07 - what's a net cat.md",
-    "CyLab/General Skills/06 - Obedient Cat.md",
-    "CyLab",
-    "CyLab/Primer Examen Parcial - Parte 2 - Web",
-    "CyLab/Primer Examen Parcial - Parte 1 - General Skills",
-    "Computo en la nube",
-    "CyLab/General Skills"
+    "CyLab/Crypto - Parte 1/95 - interencdec.md",
+    "CyLab/Crypto - Parte 1/94 - waves over lambda.md",
+    "CyLab/Crypto - Parte 1/93 - Tapping.md",
+    "CyLab/Crypto - Parte 1/92 - la cifra de.md",
+    "CyLab/Crypto - Parte 1/91 - Easy1.md",
+    "CyLab/Crypto - Parte 1/90 - Caesar.md",
+    "CyLab/Crypto - Parte 1/89 - 13.md",
+    "CyLab/Crypto - Parte 1/88 - The numbers.md",
+    "CyLab/Forensic 4/84 - Sleuthkit Intro.md",
+    "CyLab/Forensic 4/87 - Operation Oni.md",
+    "CyLab/Forensic 4/86 - Operation Orchid.md",
+    "CyLab/Forensic 4/85 - Sleuthkit Apprentice.md",
+    "CyLab/Forensic 4/83 - Disk, disk, sleuth!.md",
+    "CyLab/Forensic 4/82 - Milkslap.md",
+    "CyLab/Forensic - Parte 3/81 - MacroHard WeakEdge.md",
+    "CyLab/Forensic - Parte 3/80 - tunn3l v1s10n.md",
+    "CyLab/Forensic - Parte 3/79 - Matryoshka doll.md",
+    "CyLab/Forensic - Parte 3/78 - Webnet1.md",
+    "CyLab/Forensic - Parte 3/77 - WebNet0.md",
+    "Pasted image 20260902110643.png",
+    "CyLab/Forensic 2/76 - shark on wire 2.md",
+    "CyLab/Forensic - Parte 3",
+    "CyLab/Forensic 2/75 - like1000.md",
+    "CyLab/Forensic 2/74 - c0rrupt.md",
+    "CyLab/Forensic 2/73 - WhitePages.md",
+    "CyLab/Forensic 2/72 - m00nwalk.md",
+    "CyLab/Forensic 1/71 - What Lies Within.md",
+    "CyLab/Forensic 2",
+    "CyLab/Forensic 1/70 - So Meta.md",
+    "CyLab/Forensic 1",
+    "CyLab/Tarea 2 - Web",
+    "CyLab/Web 4",
+    "CyLab/Web 3",
+    "CyLab/Web 2",
+    "CyLab/Web 1",
+    "CyLab/Tarea 1 - General Skills",
+    "CyLab/General Skills 3"
   ]
 }
