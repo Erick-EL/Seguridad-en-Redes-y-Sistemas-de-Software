@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyLab/Tarea 4 - Forensic/102 - CanYouSee.md",
+                "file": "CyLab/Crypto 3/109 - b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "102 - CanYouSee"
+              "title": "109 - b00tl3gRSA3"
             }
           }
         ]
@@ -190,16 +190,21 @@
   },
   "active": "3b17691702f37647",
   "lastOpenFiles": [
+    "CyLab/Crypto 3/108 - b00tl3gRSA2.md",
+    "CyLab/Crypto 3/109 - b00tl3gRSA3.md",
+    "CyLab/Crypto 3/107 - Mind your Ps and Qs.md",
+    "CyLab/Crypto 3/106 - Mini RSA.md",
+    "plantilla.md",
+    "CyLab/Tarea 4 - Forensic/102 - CanYouSee.md",
+    "CyLab/Crypto 3",
     "CyLab/Tarea 4 - Forensic/103 - Secret of the Polyglot.md",
     "CyLab/Tarea 4 - Forensic/104 - RED.md",
     "CyLab/Tarea 4 - Forensic/105 - Ph4nt0m 1ntrud3r.md",
-    "CyLab/Tarea 4 - Forensic/102 - CanYouSee.md",
     "CyLab/Tarea 4 - Forensic/101 - Scan Surprise.md",
     "CyLab/Tarea 4 - Forensic/100 - hideme.md",
     "CyLab/Tarea 4 - Forensic/99 - Redaction gone wrong.md",
     "CyLab/Tarea 4 - Forensic/98 - St3g0.md",
     "CyLab/Tarea 4 - Forensic/97 - information.md",
-    "plantilla.md",
     "CyLab/Forensic 4/83 - Disk, disk, sleuth!.md",
     "CyLab/Crypto 2/96 - rsa-pop-quiz.md",
     "CyLab/Tarea 4 - Forensic",
@@ -213,10 +218,6 @@
     "CyLab/Crypto - Parte 1/88 - The numbers.md",
     "CyLab/Forensic 4/84 - Sleuthkit Intro.md",
     "CyLab/Forensic 4/87 - Operation Oni.md",
-    "CyLab/Forensic 4/86 - Operation Orchid.md",
-    "CyLab/Forensic 4/85 - Sleuthkit Apprentice.md",
-    "CyLab/Forensic 4/82 - Milkslap.md",
-    "CyLab/Forensic - Parte 3/81 - MacroHard WeakEdge.md",
     "Pasted image 20260902110643.png",
     "CyLab/Forensic - Parte 3",
     "CyLab/Forensic 2",
@@ -225,7 +226,6 @@
     "CyLab/Web 4",
     "CyLab/Web 3",
     "CyLab/Web 2",
-    "CyLab/Web 1",
-    "CyLab/Tarea 1 - General Skills"
+    "CyLab/Web 1"
   ]
 }
