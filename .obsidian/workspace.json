@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyLab/Crypto 3/109 - b00tl3gRSA3.md",
+                "file": "CyLab/Retos Crypto 4/114 - flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "109 - b00tl3gRSA3"
+              "title": "114 - flags"
             }
           }
         ]
@@ -190,11 +190,17 @@
   },
   "active": "3b17691702f37647",
   "lastOpenFiles": [
-    "CyLab/Crypto 3/108 - b00tl3gRSA2.md",
+    "CyLab/Retos Crypto 4/113 - ReadMyCert.md",
+    "CyLab/Retos Crypto 4/112 - HideToSee.md",
+    "CyLab/Retos Crypto 4/111 - basic-mod1.md",
+    "CyLab/Retos Crypto 4/110 - Pixelated.md",
+    "CyLab/Retos Crypto 4/114 - flags.md",
+    "plantilla.md",
     "CyLab/Crypto 3/109 - b00tl3gRSA3.md",
+    "CyLab/Retos Crypto 4",
+    "CyLab/Crypto 3/108 - b00tl3gRSA2.md",
     "CyLab/Crypto 3/107 - Mind your Ps and Qs.md",
     "CyLab/Crypto 3/106 - Mini RSA.md",
-    "plantilla.md",
     "CyLab/Tarea 4 - Forensic/102 - CanYouSee.md",
     "CyLab/Crypto 3",
     "CyLab/Tarea 4 - Forensic/103 - Secret of the Polyglot.md",
@@ -213,11 +219,6 @@
     "CyLab/Crypto - Parte 1/93 - Tapping.md",
     "CyLab/Crypto - Parte 1/92 - la cifra de.md",
     "CyLab/Crypto - Parte 1/91 - Easy1.md",
-    "CyLab/Crypto - Parte 1/90 - Caesar.md",
-    "CyLab/Crypto - Parte 1/89 - 13.md",
-    "CyLab/Crypto - Parte 1/88 - The numbers.md",
-    "CyLab/Forensic 4/84 - Sleuthkit Intro.md",
-    "CyLab/Forensic 4/87 - Operation Oni.md",
     "Pasted image 20260902110643.png",
     "CyLab/Forensic - Parte 3",
     "CyLab/Forensic 2",
@@ -225,7 +226,6 @@
     "CyLab/Tarea 2 - Web",
     "CyLab/Web 4",
     "CyLab/Web 3",
-    "CyLab/Web 2",
-    "CyLab/Web 1"
+    "CyLab/Web 2"
   ]
 }
