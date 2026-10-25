@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyLab/Retos Crypto 4/114 - flags.md",
+                "file": "CyLab/Tarea 5 - Crypto/124 - Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "114 - flags"
+              "title": "124 - Vigenere"
             }
           }
         ]
@@ -190,11 +190,22 @@
   },
   "active": "3b17691702f37647",
   "lastOpenFiles": [
+    "CyLab/Tarea 5 - Crypto/123 - substitution2.md",
+    "CyLab/Tarea 5 - Crypto/122 - substitution1.md",
+    "CyLab/Tarea 5 - Crypto/121 - substitution0.md",
+    "CyLab/Tarea 5 - Crypto/120 - rail-fence.md",
+    "CyLab/Tarea 5 - Crypto/119 - morse-code.md",
+    "CyLab/Tarea 5 - Crypto/118 - hashcrack.md",
+    "CyLab/Tarea 5 - Crypto/117 - EVEN RSA CAN BE BROKEN.md",
+    "CyLab/Tarea 5 - Crypto/115 - Crack the Power.md",
+    "CyLab/Tarea 5 - Crypto/116 - credstuff.md",
+    "CyLab/Tarea 5 - Crypto/124 - Vigenere.md",
+    "CyLab/Retos Crypto 4/114 - flags.md",
+    "CyLab/Tarea 5 - Crypto",
     "CyLab/Retos Crypto 4/113 - ReadMyCert.md",
     "CyLab/Retos Crypto 4/112 - HideToSee.md",
     "CyLab/Retos Crypto 4/111 - basic-mod1.md",
     "CyLab/Retos Crypto 4/110 - Pixelated.md",
-    "CyLab/Retos Crypto 4/114 - flags.md",
     "plantilla.md",
     "CyLab/Crypto 3/109 - b00tl3gRSA3.md",
     "CyLab/Retos Crypto 4",
@@ -208,24 +219,13 @@
     "CyLab/Tarea 4 - Forensic/105 - Ph4nt0m 1ntrud3r.md",
     "CyLab/Tarea 4 - Forensic/101 - Scan Surprise.md",
     "CyLab/Tarea 4 - Forensic/100 - hideme.md",
-    "CyLab/Tarea 4 - Forensic/99 - Redaction gone wrong.md",
-    "CyLab/Tarea 4 - Forensic/98 - St3g0.md",
-    "CyLab/Tarea 4 - Forensic/97 - information.md",
-    "CyLab/Forensic 4/83 - Disk, disk, sleuth!.md",
-    "CyLab/Crypto 2/96 - rsa-pop-quiz.md",
     "CyLab/Tarea 4 - Forensic",
-    "CyLab/Crypto - Parte 1/95 - interencdec.md",
-    "CyLab/Crypto - Parte 1/94 - waves over lambda.md",
-    "CyLab/Crypto - Parte 1/93 - Tapping.md",
-    "CyLab/Crypto - Parte 1/92 - la cifra de.md",
-    "CyLab/Crypto - Parte 1/91 - Easy1.md",
     "Pasted image 20260902110643.png",
     "CyLab/Forensic - Parte 3",
     "CyLab/Forensic 2",
     "CyLab/Forensic 1",
     "CyLab/Tarea 2 - Web",
     "CyLab/Web 4",
-    "CyLab/Web 3",
-    "CyLab/Web 2"
+    "CyLab/Web 3"
   ]
 }
