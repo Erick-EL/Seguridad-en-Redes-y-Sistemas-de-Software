@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyLab/Reversing Parte 1/125 - vault-door-training.md",
+                "file": "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/10 - rsa_oracle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "125 - vault-door-training"
+              "title": "10 - rsa_oracle"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370.3000183105469
   },
   "right": {
     "id": "66d85ad3e8daa9d2",
@@ -190,42 +190,42 @@
   },
   "active": "3b17691702f37647",
   "lastOpenFiles": [
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/09 - Related Messages.md",
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/10 - rsa_oracle.md",
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/08 - Small Trouble.md",
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/07 - Timestamped Secrets.md",
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/06 - Custom encryption.md",
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/05 - transposition-trial.md",
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/04 - Shared Secrets.md",
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/03 - StegoRSA.md",
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/02 - rotation.md",
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/01 - basic-mod2.md",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/10 - DISKO 4.md",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/09 - Timeline 1.md",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/01 - Lookey here.md",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/02 - Enhance!.md",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/03 - Riddle Registry.md",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/04 - Hidden in plainsight.md",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/05 - Flag in Flame.md",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/06 - Corrupted file.md",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/07 - Binary Digits.md",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/08 - Timeline 0.md",
+    "plantilla.md",
+    "CyLab/Reversing Parte 1/125 - vault-door-training.md",
+    "CyLab/Segundo Examen Parcial - Parte 2 - Crypto",
+    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic",
     "CyLab/Reversing Parte 1/126 - vault-door-1.md",
     "CyLab/Reversing Parte 1/127 - vault-door-3.md",
     "CyLab/Reversing Parte 1/128 - vault-door-4.md",
     "CyLab/Reversing Parte 1/129 - vault-door-5.md",
-    "CyLab/Reversing Parte 1/125 - vault-door-training.md",
-    "CyLab/Tarea 5 - Crypto/124 - Vigenere.md",
     "CyLab/Reversing Parte 1",
-    "CyLab/Tarea 5 - Crypto/123 - substitution2.md",
-    "CyLab/Tarea 5 - Crypto/122 - substitution1.md",
-    "CyLab/Tarea 5 - Crypto/121 - substitution0.md",
-    "CyLab/Tarea 5 - Crypto/120 - rail-fence.md",
-    "CyLab/Tarea 5 - Crypto/119 - morse-code.md",
-    "CyLab/Tarea 5 - Crypto/118 - hashcrack.md",
-    "CyLab/Tarea 5 - Crypto/117 - EVEN RSA CAN BE BROKEN.md",
-    "CyLab/Tarea 5 - Crypto/115 - Crack the Power.md",
-    "CyLab/Tarea 5 - Crypto/116 - credstuff.md",
-    "CyLab/Retos Crypto 4/114 - flags.md",
     "CyLab/Tarea 5 - Crypto",
-    "CyLab/Retos Crypto 4/113 - ReadMyCert.md",
-    "CyLab/Retos Crypto 4/112 - HideToSee.md",
-    "CyLab/Retos Crypto 4/111 - basic-mod1.md",
-    "CyLab/Retos Crypto 4/110 - Pixelated.md",
-    "plantilla.md",
-    "CyLab/Crypto 3/109 - b00tl3gRSA3.md",
     "CyLab/Retos Crypto 4",
-    "CyLab/Crypto 3/108 - b00tl3gRSA2.md",
-    "CyLab/Crypto 3/107 - Mind your Ps and Qs.md",
-    "CyLab/Crypto 3/106 - Mini RSA.md",
-    "CyLab/Tarea 4 - Forensic/102 - CanYouSee.md",
     "CyLab/Crypto 3",
     "CyLab/Tarea 4 - Forensic",
     "Pasted image 20260902110643.png",
     "CyLab/Forensic - Parte 3",
     "CyLab/Forensic 2",
-    "CyLab/Forensic 1",
-    "CyLab/Tarea 2 - Web",
-    "CyLab/Web 4"
+    "CyLab/Forensic 1"
   ]
 }
