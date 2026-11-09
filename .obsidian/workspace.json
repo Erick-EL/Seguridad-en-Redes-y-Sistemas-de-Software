@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyLab/Reversing - Parte 2/135 - Picker IV.md",
+                "file": "CyLab/Reversing - Parte 3/137 - asm2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "135 - Picker IV"
+              "title": "137 - asm2"
             }
           }
         ]
@@ -190,13 +190,17 @@
   },
   "active": "3b17691702f37647",
   "lastOpenFiles": [
+    "CyLab/Reversing - Parte 3/138 - asm3.md",
+    "CyLab/Reversing - Parte 3/137 - asm2.md",
+    "CyLab/Reversing - Parte 3/136 - asm1.md",
+    "plantilla.md",
+    "CyLab/Reversing - Parte 2/135 - Picker IV.md",
+    "CyLab/Reversing - Parte 3",
     "CyLab/Reversing - Parte 2/134 - Picker III.md",
     "CyLab/Reversing - Parte 2/133 - Picker II.md",
     "CyLab/Reversing - Parte 2/132 - Picker I.md",
     "CyLab/Reversing - Parte 2/131 - timer.md",
     "CyLab/Reversing - Parte 2/130 - Safe Opener 2.md",
-    "CyLab/Reversing - Parte 2/135 - Picker IV.md",
-    "plantilla.md",
     "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/10 - rsa_oracle.md",
     "CyLab/Reversing - Parte 2",
     "CyLab/Segundo Examen Parcial - Parte 2 - Crypto/09 - Related Messages.md",
@@ -214,9 +218,6 @@
     "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/02 - Enhance!.md",
     "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/03 - Riddle Registry.md",
     "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/04 - Hidden in plainsight.md",
-    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/05 - Flag in Flame.md",
-    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/06 - Corrupted file.md",
-    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/07 - Binary Digits.md",
     "CyLab/Segundo Examen Parcial - Parte 2 - Crypto",
     "CyLab/Segundo Examen Parcial - Parte 1 - Forensic",
     "CyLab/Reversing Parte 1",
@@ -225,7 +226,6 @@
     "CyLab/Crypto 3",
     "CyLab/Tarea 4 - Forensic",
     "Pasted image 20260902110643.png",
-    "CyLab/Forensic - Parte 3",
-    "CyLab/Forensic 2"
+    "CyLab/Forensic - Parte 3"
   ]
 }
