@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyLab/Reversing - Parte 3/137 - asm2.md",
+                "file": "CyLab/Reversing - Parte 4/141 - reverse_cipher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "137 - asm2"
+              "title": "141 - reverse_cipher"
             }
           }
         ]
@@ -190,8 +190,12 @@
   },
   "active": "3b17691702f37647",
   "lastOpenFiles": [
-    "CyLab/Reversing - Parte 3/138 - asm3.md",
+    "CyLab/Reversing - Parte 4/140 - Need For Speed.md",
+    "CyLab/Reversing - Parte 4/139 - GDB Test Drive.md",
+    "CyLab/Reversing - Parte 4/141 - reverse_cipher.md",
     "CyLab/Reversing - Parte 3/137 - asm2.md",
+    "CyLab/Reversing - Parte 4",
+    "CyLab/Reversing - Parte 3/138 - asm3.md",
     "CyLab/Reversing - Parte 3/136 - asm1.md",
     "plantilla.md",
     "CyLab/Reversing - Parte 2/135 - Picker IV.md",
@@ -215,9 +219,6 @@
     "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/10 - DISKO 4.md",
     "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/09 - Timeline 1.md",
     "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/01 - Lookey here.md",
-    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/02 - Enhance!.md",
-    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/03 - Riddle Registry.md",
-    "CyLab/Segundo Examen Parcial - Parte 1 - Forensic/04 - Hidden in plainsight.md",
     "CyLab/Segundo Examen Parcial - Parte 2 - Crypto",
     "CyLab/Segundo Examen Parcial - Parte 1 - Forensic",
     "CyLab/Reversing Parte 1",
@@ -225,7 +226,6 @@
     "CyLab/Retos Crypto 4",
     "CyLab/Crypto 3",
     "CyLab/Tarea 4 - Forensic",
-    "Pasted image 20260902110643.png",
-    "CyLab/Forensic - Parte 3"
+    "Pasted image 20260902110643.png"
   ]
 }
